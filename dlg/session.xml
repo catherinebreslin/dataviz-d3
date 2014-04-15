@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<dialog date='2012/09/14' time='16:36:51'>
+<session> voip-07881624966 </session>
+<user> cb404 </user> <host>  </host>
+<task> N/A </task>
+<microphone> VOIP_PJSIP </microphone>
+<hubversion> !HVER!AHub:   2.1 [KY 26/06/09] </hubversion>
+<dman> GMDMan </dman>
+<policy> Grid Handcrafted Policy </policy>
+<semdecoder> Phoenix </semdecoder>
+<outputgen> JostGen </outputgen>
+<turn turnnum='1'>
+<systurn turnnum='1' starttime='0.022'>
+<dact> hello() </dact>
+<prompt starttime='0.022'> Hello, welcome to the Cambridge restaurant system? You can ask for restaurants by area, price range or food type . How may I help you? </prompt>
+</systurn>
+<userturn turnnum='1' starttime='0.022'>
+<rec fname='cb404x-001-120914_163703_0001078_0001149.wav' starttime='10.785' endtime='11.495'/>
+<asr>
+<asrhyp prob='-0.474986732'>      UM      </asrhyp>
+<asrhyp prob='-1.491502523'>      MM      </asrhyp>
+<asrhyp prob='-2.214704990'>      M      </asrhyp>
+<asrhyp prob='-3.449891329'>      IN      </asrhyp>
+<asrhyp prob='-4.511815548'>      I'M      </asrhyp>
+<asrhyp prob='-8.307216644'>      I      </asrhyp>
+<asrhyp prob='-8.408546448'>      UM IN      </asrhyp>
+<asrhyp prob='-8.611898422'>      UM M      </asrhyp>
+<asrhyp prob='-9.042332649'>      UM UM      </asrhyp>
+<asrhyp prob='-9.425062180'>      MM IN      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='1.000000000'>null()</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='2'>
+<systurn turnnum='2' starttime='11.995'>
+<dact> request(pricerange) </dact>
+<prompt starttime='11.995'> Would you like something in the cheap, moderate, or expensive price range? </prompt>
+</systurn>
+<userturn turnnum='2' starttime='11.995'>
+<rec fname='cb404x-002-120914_163711_0001816_0001946.wav' starttime='18.165' endtime='19.465'/>
+<asr>
+<asrhyp prob='-0.010583645'>      CHEAP PLEASE      </asrhyp>
+<asrhyp prob='-5.541673183'>      CHEAPER PLEASE      </asrhyp>
+<asrhyp prob='-5.777547359'>      CHEAP CHEAP PLEASE      </asrhyp>
+<asrhyp prob='-6.295200348'>      UH PLEASE      </asrhyp>
+<asrhyp prob='-6.907751560'>      A PLEASE      </asrhyp>
+<asrhyp prob='-8.688205719'>      THE PLEASE      </asrhyp>
+<asrhyp prob='-8.861421585'>      CHEAP PLEASE           </asrhyp>
+<asrhyp prob='-9.206611633'>      I PLEASE      </asrhyp>
+<asrhyp prob='-9.655945778'>      CHEAP PLEASE UH </asrhyp>
+<asrhyp prob='-10.491667747'>      CHEAP YOU PLEASE      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='0.992964804'>inform(pricerange=cheap)</semihyp>
+<semihyp prob='0.007035196'>null()</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='3'>
+<systurn turnnum='3' starttime='19.993'>
+<dact> confreq(count="22",type=restaurant,pricerange=cheap,food,option="asian oriental",option=chinese) </dact>
+<prompt starttime='19.993'> There are 22 restaurants in the cheap price range! What kind of food would you like? For example, asian oriental or chinese? </prompt>
+</systurn>
+<userturn turnnum='3' starttime='19.993'>
+<rec fname='cb404x-003-120914_163723_0003029_0003180.wav' starttime='30.295' endtime='31.805'/>
+<asr>
+<asrhyp prob='-0.215456143'>      PLEASE      </asrhyp>
+<asrhyp prob='-3.240058422'>           </asrhyp>
+<asrhyp prob='-3.245992422'>      IT PLEASE      </asrhyp>
+<asrhyp prob='-3.359460592'>      PLEASE PLEASE      </asrhyp>
+<asrhyp prob='-3.444900513'>      THE PLEASE      </asrhyp>
+<asrhyp prob='-3.916832447'>      IS PLEASE      </asrhyp>
+<asrhyp prob='-6.050848007'>      PLEASE IS      </asrhyp>
+<asrhyp prob='-6.172360897'>      PLEASE </asrhyp>
+<asrhyp prob='-6.251237869'>      PLEASE IT      </asrhyp>
+<asrhyp prob='-6.270594597'>      IT      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='1.000000119'>null()</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='4'>
+<systurn turnnum='4' starttime='32.356'>
+<dact> request(food) </dact>
+<prompt starttime='32.356'> What kind of food would you like?  </prompt>
+</systurn>
+<userturn turnnum='4' starttime='32.356'>
+<rec fname='cb404x-004-120914_163730_0003768_0003860.wav' starttime='37.685' endtime='38.605'/>
+<asr>
+<asrhyp prob='-0.040094297'>      PLEASE      </asrhyp>
+<asrhyp prob='-4.165055752'>      PLEASE PLEASE      </asrhyp>
+<asrhyp prob='-4.487299442'>      UH      </asrhyp>
+<asrhyp prob='-5.792990208'>      CHINESE      </asrhyp>
+<asrhyp prob='-6.051034927'>           </asrhyp>
+<asrhyp prob='-6.166800976'>      THE      </asrhyp>
+<asrhyp prob='-6.360321999'>      IS PLEASE      </asrhyp>
+<asrhyp prob='-7.586558342'>      I      </asrhyp>
+<asrhyp prob='-7.687311172'>      PLEASE IS      </asrhyp>
+<asrhyp prob='-7.690989971'>      PLEASE PLACE      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='0.996945441'>null()</semihyp>
+<semihyp prob='0.003054557'>inform(food=chinese)</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='5'>
+<systurn turnnum='5' starttime='39.130'>
+<dact> request(area) </dact>
+<prompt starttime='39.130'> What part of town do you have in mind?  </prompt>
+</systurn>
+<userturn turnnum='5' starttime='39.130'>
+<rec fname='cb404x-005-120914_163735_0004330_0004428.wav' starttime='43.305' endtime='44.285'/>
+<asr>
+<asrhyp prob='-1.281098127'>      THE NORTH      </asrhyp>
+<asrhyp prob='-1.582154155'>          NORTH      </asrhyp>
+<asrhyp prob='-1.660388708'>  THE NORTH      </asrhyp>
+<asrhyp prob='-1.961444616'>      NORTH      </asrhyp>
+<asrhyp prob='-3.513326645'>      THE NO      </asrhyp>
+<asrhyp prob='-3.814382553'>          NO      </asrhyp>
+<asrhyp prob='-3.890562057'>      NO NORTH      </asrhyp>
+<asrhyp prob='-3.892617226'>  THE NO      </asrhyp>
+<asrhyp prob='-4.193673134'>      NO      </asrhyp>
+<asrhyp prob='-4.269852638'>  NO NORTH      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='0.869888842'>inform(area=north)</semihyp>
+<semihyp prob='0.093329564'>negate()</semihyp>
+<semihyp prob='0.036781523'>negate(area=north)</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='6'>
+<systurn turnnum='6' starttime='44.848'>
+<dact> confreq(count="2",pricerange=cheap,type=restaurant,area=north,food,option=indian,option=italian) </dact>
+<prompt starttime='44.848'> There are 2 restaurants in the north of town and in the cheap price range! What kind of food would you like? For example, indian or italian? </prompt>
+</systurn>
+<userturn turnnum='6' starttime='44.848'>
+<rec fname='cb404x-006-120914_163748_0005480_0005600.wav' starttime='54.805' endtime='56.005'/>
+<asr>
+<asrhyp prob='-0.157855004'>      UM      </asrhyp>
+<asrhyp prob='-2.124381542'>      UHM      </asrhyp>
+<asrhyp prob='-5.061796665'>      I      </asrhyp>
+<asrhyp prob='-5.379898548'>      UM UM      </asrhyp>
+<asrhyp prob='-5.406822681'>      I'M      </asrhyp>
+<asrhyp prob='-5.470338821'>      UM AM      </asrhyp>
+<asrhyp prob='-5.595557690'>      UMM      </asrhyp>
+<asrhyp prob='-7.346425056'>      UHM UM      </asrhyp>
+<asrhyp prob='-7.436865330'>      UHM AM      </asrhyp>
+<asrhyp prob='-7.800332069'>      UM UHM      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='1.000000000'>null()</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='7'>
+<systurn turnnum='7' starttime='57.010'>
+<dact> request(food) </dact>
+<prompt starttime='57.010'> What kind of food would you like?  </prompt>
+</systurn>
+<userturn turnnum='7' starttime='57.010'>
+<rec fname='cb404x-007-120914_163749_0005624_0005770.wav' starttime='56.245' endtime='57.705'/>
+<asr>
+<asrhyp prob='-0.124321923'>      ITALIAN PLEASE      </asrhyp>
+<asrhyp prob='-3.293633461'>      PLEASE      </asrhyp>
+<asrhyp prob='-3.373973131'>      ITALIAN FOOD PLEASE      </asrhyp>
+<asrhyp prob='-3.377218485'>      ITALIAN ITALIAN PLEASE      </asrhyp>
+<asrhyp prob='-6.389471531'>      ITALIAN THAI PLEASE      </asrhyp>
+<asrhyp prob='-6.543284416'>      FOOD PLEASE      </asrhyp>
+<asrhyp prob='-6.626869678'>      ITALIAN ITALIAN FOOD PLEASE      </asrhyp>
+<asrhyp prob='-6.928180218'>      ITALIAN I PLEASE      </asrhyp>
+<asrhyp prob='-6.969420910'>      ITALIAN CAN PLEASE      </asrhyp>
+<asrhyp prob='-8.119136810'>      ITALIAN PLEASE           </asrhyp>
+</asr>
+<semi>
+<semihyp prob='0.959571242'>inform(food=italian)</semihyp>
+<semihyp prob='0.037295111'>null()</semihyp>
+<semihyp prob='0.001687122'>inform(food=italian,food=thai)</semihyp>
+<semihyp prob='0.001446593'>inform(type=restaurant)</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='8'>
+<systurn turnnum='8' starttime='58.314'>
+<dact> inform(name="da vinci pizzeria",type=restaurant,pricerange=cheap,food=italian,area=north) </dact>
+<prompt starttime='58.315'> Da vinci pizzeria is a cheap italian restaurant in the north of town. </prompt>
+</systurn>
+<userturn turnnum='8' starttime='58.315'>
+<rec fname='cb404x-008-120914_163756_0006429_0006531.wav' starttime='64.295' endtime='65.315'/>
+<asr>
+<asrhyp prob='-0.865233541'>      YOU GOODBYE      </asrhyp>
+<asrhyp prob='-1.581206679'>      YOU GOODBYE BYE      </asrhyp>
+<asrhyp prob='-1.581363916'>      YOU GOOD      </asrhyp>
+<asrhyp prob='-2.297337055'>      YOU GOOD BYE      </asrhyp>
+<asrhyp prob='-4.376606941'>      YOU YOU GOODBYE      </asrhyp>
+<asrhyp prob='-4.809427261'>      ARE GOODBYE      </asrhyp>
+<asrhyp prob='-5.092580318'>      YOU YOU GOODBYE BYE      </asrhyp>
+<asrhyp prob='-5.092737675'>      YOU YOU GOOD      </asrhyp>
+<asrhyp prob='-5.525400639'>      ARE GOODBYE BYE      </asrhyp>
+<asrhyp prob='-5.525557518'>      ARE GOOD      </asrhyp>
+</asr>
+<semi>
+<semihyp prob='0.778390646'>bye()</semihyp>
+<semihyp prob='0.221609339'>ack()</semihyp>
+</semi>
+</userturn>
+</turn>
+<turn turnnum='9'>
+<systurn turnnum='9' starttime='65.851'>
+</systurn>
+</turn>
+<rec fname='cb404x-008-120914_163757_all.wav' starttime='0.000' endtime='65.315'/>
+<turn turnnum='10'>
+<systurn turnnum='10' starttime='65.851'>
+<dact> bye() </dact>
+<prompt starttime='65.851'> Thank you goodbye </prompt>
+</systurn>
+<userturn turnnum='9' starttime='65.851'>
+</userturn>
+</turn>
+</dialog>
