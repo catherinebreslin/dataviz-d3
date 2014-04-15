@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<markers>
+
+ <marker>
+  <name>Alexander gardens</name>
+  <lat>52.2141513</lat>
+  <lng>0.1177919</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Small park with a bowling green and play area.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Alexander gardens play area</name>
+  <lat>52.2134479</lat>
+  <lng>0.1181138</lng>
+<category>play</category>
+  <infowindow><![CDATA[<b>All ages</b><p>This small play area has a playhouse, swings and springers for the under 6's and a climb net for older children.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Arbury Court play area</name>
+  <lat>52.2244182</lat>
+  <lng>0.1288694</lng>
+<category>play</category>
+  <infowindow><![CDATA[<b>All ages</b><p>Next to the shopping centre, this small green area has a tower, swings and trim trail for small children and a modular climb unit, nest swing and rotating items for older children.</p>]]></infowindow>
+ </marker>
+ 
+   <marker>
+  <name>Arbury Town park</name>
+  <lat>52.2271948</lat>
+  <lng>0.1283383</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Large receation space. Situation behind the Arbury Community Centre on Campkin Road with a car park.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>The Backs</name>
+  <lat>52.204385</lat>
+  <lng>0.1127815</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>The Cambridge Backs is a stretch of reclaimed land, which runs along the back of the riverside colleges. It provides stunning views throughout the year, and is covered with a blanket of daffodils and crocuses during the spring.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Barnwell East local nature reserve</name>
+  <lat>52.2028727</lat>
+  <lng>0.162735</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p><a href="http://lnr.cambridge.gov.uk/reserves/barnwell_east/default.asp">Barnwell East</a> has a circular path around the reserve, providing an excellent walk at any time of year.</p><p>Located East of Barnwell Rd or turn left off Coldhams Lane into Nuttings Rd Cul de Sac. Entrances on Uphall Rd and Barnwell Rd.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Barnwell West local nature reserve</name>
+  <lat>52.2020738</lat>
+  <lng>0.1599938</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p><a href="http://lnr.cambridge.gov.uk/reserves/barnwell_west/default.asp">Barnwell West</a> provides an important wildlife corridor along Coldham’s Brook and is used by a variety of birds including Kingfishers and Nightingales.</p><p>Entrances on Barnwell Rd, Coldham’s Common and Galfrid Rd.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Bramblefields local nature reserve</name>
+  <lat>52.2242243</lat>
+  <lng>0.1540661</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p><a href="http://lnr.cambridge.gov.uk/reserves/bramblefields/default.asp">Bramblefields</a> provides an idyllic haven in the midst of a residential area with grassland, scrub and a pond. Along with its importance for birds, especially Song Thrushes, it is a brilliant site for families to visit.</p><p>Entrances on Discovery Way, Pippin Drive, Laxton Way, Ribston Way and Long Reach Rd.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Brooks road play area</name>
+  <lat>52.1969216</lat>
+  <lng>0.1568073</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Green space with an all ages children's playground with springys, a slide and swings.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Byron's Pool local nature reserve</name>
+  <lat>52.1711879</lat>
+  <lng>0.0983083</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p><a href="http://lnr.cambridge.gov.uk/reserves/byrons_pool/default.asp">Byron's Pool</a> was named after Lord Byron who used to swim at the weir pool where Kingfishers and Grey Wagtails can be seen.</p><p>The site also contains a number of small ponds.</p><p>Entrance from Car park off Grantchester Rd.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Cambridge University botanic garden</name>
+  <lat>52.1936399</lat>
+  <lng>0.12748</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>This tranquil large garden has a collection of over 10,000 labelled plant species in beautifully landscaped settings, including rock garden, lake, glasshouses, winter garden, woodland walk, and nine national collections.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Castle Hill</name>
+  <lat>52.2119983</lat>
+  <lng>0.1146483</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>Although there are no ruins to be seen on Castle Hill, this grassy mound offers an expansive view over the roof tops of the town and surrounding countryside. On a clear day it is possible to see Ely Cathedral to the north.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Cherry Hinton Hall Park</name>
+  <lat>52.1865102</lat>
+  <lng>0.1643229</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Cherry Hinton Hall came into our ownership after the second world war and has been developed over the years into a very attractive park set amongst mature trees.</p><p>The natural area of park contains a lake with a collection of ornamental wild fowl which are always eager to be fed.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Cherry Hinton Hall Park playground</name>
+  <lat>52.1871384</lat>
+  <lng>0.1634136</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>A very popular feature of the play area is the aerial runway along with climbers, group swing, springers, slide, tower unit, disabled kit and space net. There is also a small play area for the very young children.</p><p>
+There are two small paddling pools, one of which is specifically aimed at very young toddlers.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Cherry Hinton recreation ground</name>
+  <lat>52.1856287</lat>
+  <lng>0.1758564</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Large recreation ground with two football pitches and a play area.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Cherry Hinton recreation ground playground</name>
+  <lat>52.1856255</lat>
+  <lng>0.174129</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Climbling frame, skateboard ramp, swings and a slide.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Chesterton Recreation Ground</name>
+  <lat>52.2158029</lat>
+  <lng>0.1363501</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Two pitches and a children's playground.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Chesterton Recreation Ground children's playground</name>
+  <lat>52.215825</lat>
+  <lng>0.1384261</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This playground has a climber for under six year olds, swings, springys, a skate ramp for over sevens, mobilus, and climber swings.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Chestnut Grove playground</name>
+  <lat>52.2180238</lat>
+  <lng>0.1321135</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Small green area with 3-11 play area with a climber, swings, and saw saw.</p>]]></infowindow>
+ </marker>
+ 
+   <marker>
+  <name>Christ's College Fellows' Garden</name>
+  <lat>552.206318</lat>
+  <lng>0.1225662</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>This beautiful garden has been described as one of the glories of Cambridge. The college is situated in the busiest part of the city, and to step through the gates of Christ’s is to enter an alternative world of stillness and tranquillity.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Christ's Pieces</name>
+  <lat>52.2062391</lat>
+  <lng>0.1247549</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Situated in the city centre, bordered by the bus station, Christ's College, Emmanuel Road and King Street.</p><p>It has tree lined avenues, a Diana, Princess of Wales, rose garden, toilets with disabled facilities, refreshment kiosk and four free tennis courts.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Christ's Pieces playground</name>
+  <lat>52.2071201</lat>
+  <lng>0.1244974</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Situated next to the tennis courts, this is for under 6's with swings, climber, springys, and graphics.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Clare College Gardens</name>
+  <lat>52.2053975</lat>
+  <lng>0.1128244</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>A fine example of a 20th Century English garden with old yews and chestnuts, swamp cypress, a gnarled Judas tree, and an old stonewall.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Coe Fen (Laundress Green)</name>
+  <lat>52.1994665</lat>
+  <lng>0.1149166</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>South of Silver Street is Laundress Green (as here laundry would be stretched out to dry and bleach in the sun).</p><p>Punts can be hired for taking up river through the Meadows to Grantchester, or down stream past The Backs to Jesus Lock. </p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Coldham's Common</name>
+  <lat>52.2065021</lat>
+  <lng>0.1559973</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>A sizable block of common land near the heart of Cambridge. Parts of it are grazed by cattle.</p><p>It has six full size football pitches, two junior football, one gaelic football and one american football pitch. All can be hired through <a href="/ccm/content/navigation/leisure-and-entertainment/swimming-pools/">Abbey Pool</a>.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Coldham's Common children's play area</name>
+  <lat>52.2097968</lat>
+  <lng>0.1537724</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>For older children and located by Abbey Pool. It has a ball court and swings.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Coleridge Park</name>
+  <lat>52.1919858</lat>
+  <lng>0.1450539</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>This park has a football field, tennis courts and a children's playground.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Coleridge Park playground</name>
+  <lat>52.1931532</lat>
+  <lng>0.1434177</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>For younger children there are swings, a springy and a tower slide.7-13 Modular climbing, rotating kit
+.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Ditton Fields Recreation Ground</name>
+  <lat>52.2149072</lat>
+  <lng>0.1598972</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Small green area with a basketball court.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Donkey Common</name>
+  <lat>52.2019192</lat>
+  <lng>0.1310742</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Alongside Gonville Place, with the Kelsey Kerridge/Parkside Pools sports complex, Queen Anne Terrace car park, skating ramps and YMCA.</p><p> During World War II there were temporary huts on the common and after the war they were used for temporary housing.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Dudley Road recreation ground</name>
+  <lat>52.21589</lat>
+  <lng>0.1653528</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Small green area with 3-13 play area with a skateramp, modular unit, swings, spinning unit and springys.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Emmanuel College Gardens</name>
+  <lat>52.203977</lat>
+  <lng>0.1251626</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>Some of the finest within any Cambridge college. Has a massive copper beech, a 200-year oriental plane, and a small oak.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Empty Common</name>
+  <lat>52.1911736</lat>
+  <lng>0.125463</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>Between the Nuffield (Evelyn) Hospital and the Government Offices site. Hobson's Brook runs along the east side.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Flower Street play area</name>
+  <lat>52.2042863</lat>
+  <lng>0.1357305</lng>
+<category>play</category>
+  <infowindow><![CDATA[<b>All ages</b><p>Has swings and a cabin slide.</p>]]></infowindow>
+ </marker>
+ 
+ 
+ <marker>
+  <name>Grantchester Meadows</name>
+  <lat>52.1922325</lat>
+  <lng>0.1078248</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>These renowned meadows to the south of the city can be reached by walking across Lammas Land by the River Cam along a residential road called Grantchester Meadows. </p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Green End Road recreation ground</name>
+  <lat>52.2235046</lat>
+  <lng>0.1491362</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>For younger children there is a town climber and springys, for older children a runway, climbing net, swings and a youth shelter.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Gunhild Close play area</name>
+  <lat>52.2042863</lat>
+  <lng>0.1357305</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This small green area has a slide, swings, springys, a modular unit and timber goals.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Histon Road recreation ground</name>
+  <lat>52.2182498</lat>
+  <lng>0.1089621</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Small green area with climber, swings and springys for younger children and a runway, futball goals, modular climber and rest swing for older children.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Holbrook Road Recreation Ground</name>
+  <lat>52.2042863</lat>
+  <lng>0.1357305</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This large green space has a climber, goal end and springys.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Jesus Green</name>
+  <lat>52.2119457</lat>
+  <lng>0.1218152</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Situated to the North of the City centre, Jesus Green is bordered by the River Cam, Victoria Avenue and Jesus College.</p><p>Divided by avenues of London Plane and Horse Chestnut trees, it is primarily an area of open parkland grass, offering informal and formal outdoor sports.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+   <name>Jesus Green Children's Playground</name>
+  <lat>52.213037</lat>
+  <lng>0.1245618</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This fenced play area caters for children of all ages. Has a wooden railway engine, a mini roundabout, spring tractor, cradle seat swings, and agility climber, group swing and slide as well as a small picnic area.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Kings Hedges Recreation ground</name>
+  <lat>52.2309011</lat>
+  <lng>0.1247334</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Large green space, built with housing around it facing in, and bike paths to provide through routes.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Lammas Land</name>
+  <lat>52.1968394</lat>
+  <lng>0.112288</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Located to the South West of the City about half a mile from the centre, it is bordered by Fen Causeway and Newnham Road.</p><p>A very popular park in the summer primarily because of its paddling pool and large play area. There are large areas of mown grass which are ideal for picnics and sun bathing.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Lammas Land play area</name>
+  <lat>52.1966388</lat>
+  <lng>0.1145411</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Lammas Land play area has a wide range of play equipment caters for all ages of children. For young children there are springys and toner units, for older children a space net, climbers, swings, and a toner climber.</p><p>It is close to a large shallow paddling pool which is ideal for younger children.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Lichfield Road play area</name>
+  <lat>52.188786</lat>
+  <lng>0.1505363</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Caters for all ages of children with swings, springys and climbing unit.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Limekiln Close and West Pit local nature reserve</name>
+  <lat>52.1804779</lat>
+  <lng>0.1702344</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p>The undulating terrain of <a href="http://lnr.cambridge.gov.uk/reserves/limekiln/default.asp">Limekiln Close and West Pit reserve</a> are old quarries.</p><p>Access to both sites has recently been improved with the installation of more steps. Entrances off Fulbourn Rd via Ainsdale and Limekiln Rd. West Pit <acronym title="Local nature reserve">LNR</acronym> is best accessed from the car park on the top of Limekiln Rd.</p>]]></infowindow>
+ </marker>
+
+<marker>
+  <name>Logan's Meadow local nature reserve</name>
+  <lat>52.2117617</lat>
+  <lng>0.1405263</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p><a href="http://lnr.cambridge.gov.uk/reserves/logans_meadow/default.asp">Logan's Meadow</a> is an oasis for nature within a recently developed area of the city. Previously used by Otters, the reserve is re-creating their favoured habitat.</p><p>It has a circular path and benches along the banks of the river. Entrance off Logans Way</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Midsummer common</name>
+  <lat>52.2102102</lat>
+  <lng>0.1287031</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>Home to the annual Midsummer Fair, one of the longest-established fairs in England, bonfire night and the Strawberry Fair.</p><p>Former names include Midsummer Green, Greencoft and Butts Green. The common is naturally grazed by a herd of bulls between April and October.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Mill Road Cemetery</name>
+  <lat>52.2027346</lat>
+  <lng>0.1374793</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Like many urban cemeteries, this 15 acre site is now recognised as a valuable historical resource, containing the biography of a whole community. Built in 1848, on what was then the edge of the town, it is now listed by English Heritage.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Nightingale Park</name>
+  <lat>52.1771951</lat>
+  <lng>0.1491737</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Large park with four pitches, play area and a bowling green.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Nightingale Park play area</name>
+  <lat>52.1780273</lat>
+  <lng>0.1509172</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>For younger children there's a springy, climber, slide and spinner. For older children, a runway, swings, spica, and rotating unit.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Nine Wells local nature reserve</name>
+  <lat>52.1665356</lat>
+  <lng>0.1352692</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p><a href="http://lnr.cambridge.gov.uk/reserves/nine_wells/default.asp">Nine Wells</a> contains several chalk springs, which form the source of the Hobson Conduit.</p><p>Located south of Addenbrookes Hospital this site is not accessible by car. Access via footpath from Granham’s Rd or via permissive paths from Foster Rd or Granham’s Rd.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Nuns Way recreation ground</name>
+  <lat>52.2323336</lat>
+  <lng>0.1334533</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Two football pitches and a play area.</p>]]></infowindow>
+ </marker>
+
+<marker>
+  <name>Nuns Way recreation ground playground</name>
+  <lat>52.2314589</lat>
+  <lng>0.1347864</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This play area with sand play and a climber for small children and high tomers, high nets, spinners and running for big children.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Paradise reserve</name>
+  <lat>52.1944423</lat>
+  <lng>0.1149917</lng>
+<category>reserve</category>
+  <infowindow><![CDATA[<p>On the northern bank of the Cam is a fragment of semi-natural habitat that used to be common.</p><p>Access is via Lammas Land Car Park and Owlstone Rd.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Parkers Piece</name>
+  <lat>52.202202</lat>
+  <lng>0.1281881</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>One of the best known open spaces in Cambridge, bordered by Park Terrace, Regent Terrace, Parkside and Gonville Place.</p><p>Derives from cook Edward Parker who owned it as grazing land. Now used for both formal and informal recreation and sporting activities.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Pembroke college garden</name>
+  <lat>52.2018995</lat>
+  <lng>0.1198411</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>A beautiful garden with several courts and an orchard containing a small duck pond.</p><p><a href="/ccm/content/leisure-and-entertainment/parks-and-playgrounds/other-green-spaces.en">More information</a></p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Peterhouse garden</name>
+  <lat>52.1998611</lat>
+  <lng>0.118618</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>Peterhouse has the largest on-site gardens of any college.</p><p>The Deer Park resembles a well-kept meadow. The Scholars' Garden plays host to croquet in the summer.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Petersfield</name>
+  <lat>52.2024551</lat>
+  <lng>0.1317474</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Small park next to Zion Baptist Chapel and surrounded by mature trees and shrub beds.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Petersfield play area</name>
+  <lat>52.2027231</lat>
+  <lng>0.1324877</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Has swings and springys.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Peverel Road play area</name>
+  <lat>52.2101707</lat>
+  <lng>0.1646447</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This small green space has a springy, climber and swings.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Queen's green</name>
+  <lat>52.202774</lat>
+  <lng>0.1131892</lng>
+<category>park1</category>
+  <infowindow><![CDATA[<p>The area between Queens' College and Queen's Road, separated from the College by an old branch of the river.</p>]]></infowindow>
+ </marker>
+ 
+     <marker>
+  <name>Ravensworth Gardens play area</name>
+  <lat>52.1957929</lat>
+  <lng>0.1367967</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This play area is situated at the end of Ravensworth Gardens and is suitable for younger children and consists of mostly equipment for toddlers such as springys and swings.</p>]]></infowindow>
+ </marker>
+ 
+      <marker>
+  <name>Riley Way play area</name>
+  <lat>52.1962508</lat>
+  <lng>0.1753977</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This play area is suitable for younger children and consists of mostly equipment for toddlers such as springys and a slide.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Romsey Recreation Ground</name>
+  <lat>52.2001241</lat>
+  <lng>0.1514563</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Public park, with children's playground. Also known as Vinery Road Park.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Romsey Recreation Ground children's playground</name>
+  <lat>52.2005334</lat>
+  <lng>0.1498684</lng>
+<category>play</category>
+  <infowindow><![CDATA[]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>St. Albans Road Recreation ground</name>
+  <lat>52.2301208</lat>
+  <lng>0.1194602</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Has a football pitch, basketball, skateboard ramp and children's play equipment.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>St. Albans Road Recreation ground playground</name>
+  <lat>52.2299269</lat>
+  <lng>0.1175143</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>The play area has a springy, trin trail, swings, runway, MUGA and mobilns.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>St Matthew's Piece</name>
+  <lat>52.2062178</lat>
+  <lng>0.139837</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>Common-land park since 1898.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>St Matthew's Piece play area</name>
+  <lat>52.206701</lat>
+  <lng>0.1398772</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>For young children there are springys, swings and a climber. For older children a modular climber, nest swing and a basketball half court.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>St Thomas Square play area</name>
+  <lat>52.1896411</lat>
+  <lng>0.1592696</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This small green space has a see saw, swings and a slide.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Scotland Road recreation ground</name>
+  <lat>52.2195709</lat>
+  <lng>0.1435733</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Small green area with a springy climber and swings for younger children and a basketball half court for older children.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Shelly Row play area</name>
+  <lat>52.2122843</lat>
+  <lng>0.1114297</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This small green space has a springy, swing and tot town climber for small children.</p>]]></infowindow>
+ </marker>
+ 
+ <marker>
+  <name>Sheep's Green</name>
+  <lat>52.1970038</lat>
+  <lng>0.1166332</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>Situated to the West of Coe Fen, along the West bank of the River Cam and is grazed in the summer by cattle and at times horses.</p><p>Sheeps Green has <A HREF="/ccm/navigation/leisure-and-culture/swimming-pools/">an outdoor learner pool</a> which is open in the Summer months.</p>]]></infowindow>
+ </marker>
+
+  <marker>
+  <name>Stourbridge Common</name>
+  <lat>52.2171258</lat>
+  <lng>0.1510835</lng>
+<category>common</category>
+  <infowindow><![CDATA[<p>Large common that was once the site of Stourbridge Fair.</p><p><a href="/ccm/content/leisure-and-entertainment/parks-and-playgrounds/commons.en">More information</a></p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Stourbridge Common play area</name>
+  <lat>52.2148275</lat>
+  <lng>0.1457016</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>The all ages play area has springys, a modular climber, runway and rotating unit.</p>]]></infowindow>
+ </marker>
+ 
+   <marker>
+  <name>Tenby Close play area</name>
+  <lat>52.190108</lat>
+  <lng>0.1789463</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This all ages play area has springys and a slide.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Tennison Road / Ravensworth Gardens play area</name>
+  <lat>52.1961423</lat>
+  <lng>0.135528</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This play area is located on a roof garden and is suitable for older children. There is a tower unit, swings and a springy, for younger children springys and swings.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>"The Pulley" park</name>
+  <lat>52.2307697</lat>
+  <lng>0.1231027</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Part of Kings Hedges recreation ground, this play area has lots of children's play equipment - swings, modular climbers, springys, trim trail, goals, sliders - for all ages and a learner pool.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Thorpe Way / Fison Road play area</name>
+  <lat>52.216567</lat>
+  <lng>0.1739359</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This large green area has a climber, swings and trim trail for younger children. For older children there are toners, rotating units, swings, a surf rider, runway and full ball court, fitness zone and climbing boulders.</p>]]></infowindow>
+ </marker>
+ 
+  <marker>
+  <name>Trumpington recreation ground</name>
+  <lat>52.1728921</lat>
+  <lng>0.1164079</lng>
+<category>park</category>
+  <infowindow><![CDATA[<p>This is a large open space surrounded by housing. The football pitch is open between September and May and there's a bowling green.</p>]]></infowindow>
+ </marker>
+
+ <marker>
+  <name>Trumpington recreation ground play area</name>
+  <lat>52.1737738</lat>
+  <lng>0.1172206</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>Large play area with a slide, swing and springys for young children and a runway, swings and rotating climbing unit for older children.</p>]]></infowindow>
+ </marker>
+
+<marker>
+  <name>Woodhead Drive play area</name>
+  <lat>52.2243426</lat>
+  <lng>0.1363635</lng>
+<category>play</category>
+  <infowindow><![CDATA[<p>This small green space has a swing and a slide.</p>]]></infowindow>
+ </marker>
+</markers>
